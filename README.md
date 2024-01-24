@@ -10,17 +10,17 @@ decisions.
 dummy datasets to demonstrate capabilities of Power BI.
 
 ## Problem Statement
-1. Sum of sales by year, month and ship mode. 
-2. Top 5 Sum of sales by city and Bottom 5 Sum of sales by city.
-3. Profit  by year, month and ship mode.
-4. Top 5 profit by city and Bottom 5 profit by city
+1. Total Revenue, Average order value, Total piza sold, Total order, Average Piza Per order. 
+2. Daily and Monthly trend for total order.
+3. % of sales by piza category and piza size
+4. Top and Bottom 5 for total order, quantity and revenue.
 
 ## Skills / Concepts Demonstrated
 - Data Modeling and Relationships
 - DAX (Data Analysis Expressions)
 - Aggregation Techniques
 - Filters and Slicers
-- Buttons
+- Navigation Button
 
 ## Modelling
 ![Model](https://github.com/habeebsalaudeen/Sample-Pizza-Sales/assets/97491265/832f234c-5163-42cc-a335-8b8fb57b5ae4)
@@ -36,11 +36,12 @@ You can interact with the report {here}
 (https://app.powerbi.com/groups/me/reports/8fe96508-708d-4aea-8604-4c0ece7cabb9/ReportSection62295d81cb28006e7dcb?experience=power-bi)
 
 ### Home report
-In this Power BI sales analysis, I skillfully crafted a dynamic and comprehensive model. I implemented advanced measures, creating slicers for both month and segments to ensure seamless interaction with the report, line chart illustrate the sum of sales over months and years, allowing users to grasp sales trends without interference from slicers. Additionally, a doughnut chart visualizes sales distribution by ship mode. To highlight key categories, a stacked bar chart showcases the top 5 and bottom 5 sales, contributing to a comprehensive and interactive exploration of sales insights. The report seamlessly combines interactivity with user-friendly design, enabling stakeholders to make informed decisions and strategize effectively based on the presented data.
+In this Power BI sales analysis, I skillfully crafted a dynamic and comprehensive model. I implemented advanced measures, creating slicers for both pizza category and dates to ensure seamless interaction with the report, The top visual has a nice picture of pizza close to the topic for more emphasis of what our report is about.
+The aggregation uses a new card visual with different format to make it as one and to look beautiful and exquisite with image. Area chart illustrate the months we get busier the most an, Stacked column chart shows the day we get busier the most. Additionally, a doughnut chart visualizes percentage of sales by pizza category and pizza size. 
 ![Home (1)](https://github.com/habeebsalaudeen/Sample-Pizza-Sales/assets/97491265/6801e946-8696-41b3-924a-aa57d459399e)
 
 ### Best/Worst sellers report
-This Power BI report provides a detailed analysis of profit data with dynamic features such as buttons and slicers for month and segment selection. The primary focus is on a line chart illustrating the sum of sales over months and years, allowing users to grasp profits trends without interference from slicers. Additionally, a doughnut chart visualizes profit distribution by ship mode. To highlight key categories, a stacked bar chart showcases the top 5 and bottom 5 sales, contributing to a comprehensive and interactive exploration of tremendous insights when it comes to profit. The report seamlessly combines interactivity with user-friendly design, enabling stakeholders to make informed decisions and strategize effectively based on the presented data.
+This Power BI report provides a detailed analysis of profit data with dynamic features such as buttons and slicers for month and segment selection. The primary focus is on the stacked bar chart illustrating the top 5 and bottom 5 profit for revenue, quantity and total orders, contributing to a comprehensive and interactive exploration of tremendous insights when it comes to profit. The report seamlessly combines interactivity with user-friendly design, enabling stakeholders to make informed decisions and strategize effectively based on the presented data.
 ![Sellers](https://github.com/habeebsalaudeen/Sample-Pizza-Sales/assets/97491265/ebda4d63-033e-44df-ae94-c22fc0007d1f)
 
 ## Conclusion and Recommendation
