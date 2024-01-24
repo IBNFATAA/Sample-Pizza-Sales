@@ -37,7 +37,7 @@ You can interact with the report {here}
 
 ### Home report
 In this Power BI sales analysis, I skillfully crafted a dynamic and comprehensive model. I implemented advanced measures, creating slicers for both pizza category and dates to ensure seamless interaction with the report, The top visual has a nice picture of pizza close to the topic for more emphasis of what our report is about.
-The aggregation uses a new card visual with different format to make it as one and to look beautiful and exquisite with image. Area chart illustrate the months we get busier the most an, Stacked column chart shows the day we get busier the most. Additionally, a doughnut chart visualizes percentage of sales by pizza category and pizza size. 
+The aggregation uses a new card visual with different format to make it as one and to look beautiful and exquisite with image. Area chart illustrate the months we get busier the most, Stacked column chart shows the day we get busier the most. Additionally, a doughnut chart visualizes percentage of sales by pizza category and pizza size. 
 ![Home (1)](https://github.com/habeebsalaudeen/Sample-Pizza-Sales/assets/97491265/6801e946-8696-41b3-924a-aa57d459399e)
 
 ### Best/Worst sellers report
