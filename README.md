@@ -46,11 +46,13 @@ This Power BI report provides a detailed analysis of profit data with dynamic fe
 
 ## Conclusion and Recommendation
 The insights generated from the report shows:
-- The highest generated sales by Month and year = (NOVEMBER)
-- Highest sales by ship mode = (STANDARD CLASS)
-- Highest sales by CITY = (NEW YORK)
-- Worst sales by city = (Waco)
-- The highest generated profit by Month and year = (OCTOBER)
-- Highest profit by profit = (STANDARD CLASS)
-- Highest profit by profit = (NEW YORK)
-- Worst sales by profit = (ELYRIA)
+- The total revenue(817.86k), the average order value(38.31),
+ Total Pizza sold(49574), Total order(21350), Average pizza per order(2.32).
+- Orders are highest in the weekend (Friday/Saturday Evenings)
+- (Classic Category) contributes to maximum sales and total orders
+- (Largest size pizza) contributes to maximum sales quantities
+- The (Classic Deluxe Pizza) contributes to maximum Total orders 
+- The (Thai Chicken Pizza) contribute to maximum Revenue.
+- The (Brie Care Pizza)  contributes to minimum  Revenue.
+- The (Brie Care Pizza) contributes to minimum Total Quantities.
+- The (Brie Care Pizza) contributes to minimum Total orders.
